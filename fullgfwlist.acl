@@ -8,6 +8,7 @@
 # 下载地址 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/fullgfwlist.acl
 #
 #**********************************************************************
+[remote_dns] 
 
 [bypass_all]
 ### 默认直连 自己可以自定义
